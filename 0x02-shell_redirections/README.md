@@ -1,4 +1,6 @@
 I/O Redirections and filters
-0-hello_world: Print to thescreen
-Printing Confused smiley
-Command cat to display the content of a file
+0-0-hello_world: Print to thescreen
+1-Printing Confused smiley
+2-Command cat to display the content of a file
+3-What about 2? Display the contents of two files
+
