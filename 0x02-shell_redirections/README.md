@@ -4,3 +4,4 @@ I/O Redirections and filters
 2-Command cat to display the content of a file
 3-What about 2? Display the contents of two files
 
+4-Last lines of a file
