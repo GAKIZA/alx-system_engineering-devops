@@ -5,3 +5,4 @@ I/O Redirections and filters
 3-What about 2? Display the contents of two files
 
 4-Last lines of a file
+5-I'd prefer the first ones actually
