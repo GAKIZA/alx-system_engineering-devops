@@ -9,3 +9,5 @@ I/O Redirections and filters
 6-Line #2
 7-file
 8-cwd_state
+9. Duplicate the last line
+10-delete Js files 
