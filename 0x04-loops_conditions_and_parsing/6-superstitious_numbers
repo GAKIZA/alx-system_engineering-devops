@@ -1,8 +1,14 @@
 #!/usr/bin/env bash
-# This script use case statement 
+# This script displays number from 1 to 20
+
+# use case statement to display "bad luck from China" on 4th iteration
+# use case statement to display "bad luck from Japan" on 9th iteration
+# use case statement to display "bad luck from Italy" on 17th iteration
+
 
 i=1
-while [ $i -lt 20 ]
+
+while [ $i -le 20 ]
 do
 	echo "$i "
   case $i in 
