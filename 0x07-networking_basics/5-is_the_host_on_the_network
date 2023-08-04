@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+#Pings a given network address
+
+if [ $# -ne 1 ]; then
+  echo "Usage: $0 <IP address or domain name>"
+  exit 1
+fi
+
+address=$1
+
+ping -c 4 $address
+
+if [ $? -eq 0 ]; then
+  echo "Ping successful. The address is reachable."
+else
+  echo "Ping failed. The address is unreachable."
+fi
